@@ -11,10 +11,5 @@
   },
   "upmCi": {
     "footprint": "b205102d9f0db2cf9308b7f95a4bc93f6785a0a2"
-  },
-  "repository": {
-    "url": "https://github.com/Unity-Technologies/Graphics.git",
-    "type": "git",
-    "revision": "72de8123d16acb2c5a13221527b7a14614f8c5ee"
   }
 }
